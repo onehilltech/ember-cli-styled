@@ -1,5 +1,5 @@
 {
-  "name": "ember-cli-stylist",
+  "name": "ember-cli-styled",
   "version": "1.0.0",
   "description": "ember-cli addon for modularizing style implementation.",
   "keywords": [
@@ -10,7 +10,7 @@
     "routes",
     "components"
   ],
-  "repository": "github:onehilltech/ember-cli-stylist",
+  "repository": "github:onehilltech/ember-cli-styled",
   "license": "Apache-2.0",
   "author": "James H. Hill <james@onehilltech.com>",
   "directories": {

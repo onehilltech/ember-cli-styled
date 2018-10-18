@@ -1,5 +1,5 @@
 'use strict';
 
 module.exports = {
-  name: 'ember-cli-stylist'
+  name: 'ember-cli-styled'
 };

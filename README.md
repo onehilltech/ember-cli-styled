@@ -1,4 +1,4 @@
-ember-cli-stylist
+ember-cli-styled
 ==============================================================================
 
 [Short description of the addon.]
@@ -7,7 +7,7 @@ Installation
 ------------------------------------------------------------------------------
 
 ```
-ember install ember-cli-stylist
+ember install ember-cli-styled
 ```
 
 
@@ -23,7 +23,7 @@ Contributing
 ### Installation
 
 * `git clone <repository-url>`
-* `cd ember-cli-stylist`
+* `cd ember-cli-styled`
 * `npm install`
 
 ### Linting

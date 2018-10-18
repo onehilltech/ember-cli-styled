@@ -1,4 +1,4 @@
-import Styled from 'ember-cli-stylist/mixins/styled';
+import Styled from 'ember-cli-styled/mixins/styled';
 import Route from '@ember/routing/route';
 
 export function initialize(/* application */) {

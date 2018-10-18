@@ -1,1 +1,1 @@
-export { default, initialize } from 'ember-cli-stylist/initializers/stylist';
+export { default, initialize } from 'ember-cli-styled/initializers/stylist';
