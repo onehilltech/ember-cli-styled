@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5c569e7-3aa3-4543-ae31-ae2cd98adabd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/blueprints/component-style/files/__root__/styles/components/__stylepath__.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blueprints/component-style/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/dummy/app/styles/_components.scss" beforeDir="false" afterPath="$PROJECT_DIR$/tests/dummy/app/styles/_components.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blueprints/component-style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/blueprints/component-style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blueprints/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/blueprints/style/index.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.bower_components.ember-try/" />
     <ignored path="$PROJECT_DIR$/.node_modules.ember-try/" />
@@ -50,13 +48,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="js" value="1108" />
+          <entry key="js" value="1129" />
           <entry key="scss" value="27" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JavaScript" value="1108" />
+          <entry key="JavaScript" value="1129" />
           <entry key="SCSS" value="27" />
         </counts>
       </usages-collector>
@@ -68,11 +66,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/blueprints/style/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="91">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="78">
+              <caret line="6" column="50" selection-start-line="6" selection-start-column="50" selection-end-line="6" selection-end-column="50" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -80,7 +78,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blueprints/component-style/files/__root__/styles/components/__stylepath__.scss">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="39">
@@ -92,8 +90,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blueprints/component-style/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="42" column="134" selection-start-line="42" selection-start-column="134" selection-end-line="42" selection-end-column="134" />
+            <state relative-caret-position="78">
+              <caret line="6" column="9" selection-start-line="6" selection-end-line="7" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -177,10 +175,10 @@
         <option value="$PROJECT_DIR$/app/styles/app.scss" />
         <option value="$PROJECT_DIR$/blueprints/ember-cli-stylist/files/app/styles/_stylist.scss" />
         <option value="$PROJECT_DIR$/blueprints/ember-cli-stylist/index.js" />
-        <option value="$PROJECT_DIR$/blueprints/style/index.js" />
-        <option value="$PROJECT_DIR$/blueprints/component-style/index.js" />
         <option value="$PROJECT_DIR$/tests/dummy/app/styles/_components.scss" />
         <option value="$PROJECT_DIR$/blueprints/component-style/files/__root__/styles/components/__stylepath__.scss" />
+        <option value="$PROJECT_DIR$/blueprints/component-style/index.js" />
+        <option value="$PROJECT_DIR$/blueprints/style/index.js" />
       </list>
     </option>
   </component>
@@ -224,76 +222,7 @@
               <item name="ember-cli-stylist" type="b2602c69:ProjectViewProjectNode" />
               <item name="ember-cli-stylist" type="462c0819:PsiDirectoryNode" />
               <item name="blueprints" type="462c0819:PsiDirectoryNode" />
-              <item name="component-style" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ember-cli-stylist" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ember-cli-stylist" type="462c0819:PsiDirectoryNode" />
-              <item name="blueprints" type="462c0819:PsiDirectoryNode" />
-              <item name="component-style" type="462c0819:PsiDirectoryNode" />
-              <item name="files" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ember-cli-stylist" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ember-cli-stylist" type="462c0819:PsiDirectoryNode" />
-              <item name="blueprints" type="462c0819:PsiDirectoryNode" />
-              <item name="component-style" type="462c0819:PsiDirectoryNode" />
-              <item name="files" type="462c0819:PsiDirectoryNode" />
-              <item name="__root__" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ember-cli-stylist" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ember-cli-stylist" type="462c0819:PsiDirectoryNode" />
-              <item name="blueprints" type="462c0819:PsiDirectoryNode" />
-              <item name="component-style" type="462c0819:PsiDirectoryNode" />
-              <item name="files" type="462c0819:PsiDirectoryNode" />
-              <item name="__root__" type="462c0819:PsiDirectoryNode" />
-              <item name="styles" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ember-cli-stylist" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ember-cli-stylist" type="462c0819:PsiDirectoryNode" />
-              <item name="blueprints" type="462c0819:PsiDirectoryNode" />
-              <item name="component-style" type="462c0819:PsiDirectoryNode" />
-              <item name="files" type="462c0819:PsiDirectoryNode" />
-              <item name="__root__" type="462c0819:PsiDirectoryNode" />
-              <item name="styles" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ember-cli-stylist" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ember-cli-stylist" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ember-cli-stylist" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ember-cli-stylist" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
-              <item name="dummy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ember-cli-stylist" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ember-cli-stylist" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
-              <item name="dummy" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ember-cli-stylist" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ember-cli-stylist" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
-              <item name="dummy" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="styles" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ember-cli-stylist" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ember-cli-stylist" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
-              <item name="dummy" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="styles" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="style" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -355,12 +284,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1539874579425</updated>
-      <workItem from="1539874580959" duration="7631000" />
+      <workItem from="1539874580959" duration="7950000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7631000" />
+    <option name="totallyTimeSpent" value="7950000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="782" extended-state="6" />
@@ -373,10 +302,10 @@
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.5109232" side_tool="true" weight="0.3288889" />
       <window_info anchor="bottom" id="Version Control" order="1" weight="0.3288889" />
-      <window_info anchor="bottom" id="Terminal" order="2" sideWeight="0.48907682" weight="0.33133432" />
+      <window_info anchor="bottom" id="Terminal" order="2" sideWeight="0.48907682" visible="true" weight="0.33133432" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" weight="0.3288889" />
-      <window_info anchor="bottom" id="Run" order="5" sideWeight="0.4855532" visible="true" weight="0.4647676" />
+      <window_info anchor="bottom" id="Run" order="5" sideWeight="0.4855532" weight="0.4647676" />
       <window_info anchor="bottom" id="Debug" order="6" sideWeight="0.49326718" weight="0.3808096" />
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
@@ -516,26 +445,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blueprints/style/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="91">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blueprints/component-style/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="42" column="134" selection-start-line="42" selection-start-column="134" selection-end-line="42" selection-end-column="134" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tests/dummy/app/styles/_routes.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="13">
@@ -552,9 +461,6 @@
     <entry file="file://$PROJECT_DIR$/tests/dummy/app/styles/routes/_index.scss">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/dummy/app/styles/components/_stylist-foo.scss">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/tests/dummy/app/styles/_components.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="13">
@@ -566,6 +472,29 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="39">
           <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/dummy/app/styles/components/_stylist-foo.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blueprints/component-style/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="6" column="9" selection-start-line="6" selection-end-line="7" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blueprints/style/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="6" column="50" selection-start-line="6" selection-start-column="50" selection-end-line="6" selection-end-column="50" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

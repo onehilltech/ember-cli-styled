@@ -4,7 +4,7 @@ const { dasherize } = require ('ember-cli-string-utils');
 const { Blueprint } = require ('ember-cli-blueprint-helpers');
 
 module.exports = Blueprint.extend ({
-  description: 'Generates a material design style for an existing route',
+  description: 'Generates a style file for a component',
 
   availableOptions: Object.freeze ([
     { name: 'path', type: String, default: ''},
