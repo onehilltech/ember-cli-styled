@@ -12,7 +12,7 @@
   ],
   "repository": "github:onehilltech/ember-cli-stylist",
   "license": "Apache-2.0",
-  "author": "",
+  "author": "James H. Hill <james@onehilltech.com>",
   "directories": {
     "doc": "doc",
     "test": "tests"
