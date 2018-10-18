@@ -9,6 +9,6 @@ module.exports = Blueprint.extend ({
 
   afterInstall () {
     return this._locals (this.options)
-      .then (({fileMap: { __root__ }}) => this.insertIntoFile (`${__root__}/styles/app.scss`, '@import "_stylist";\n'))
+      .then (({fileMap: { __root__ }}) => this.insertIntoFile (`${__root__}/styles/app.scss`, '@import "_styled";\n'))
   }
 });
