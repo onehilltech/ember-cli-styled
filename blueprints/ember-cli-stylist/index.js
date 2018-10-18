@@ -1,15 +1,14 @@
 /* eslint-env node */
-module.exports = {
-  normalizeEntityName: function() {}, // no-op since we're just adding dependencies
+
+const { Blueprint } = require ('ember-cli-blueprint-helpers');
+
+module.exports = Blueprint.extend ({
+  addons: [
+    {name: 'ember-cli-sass'}
+  ],
 
   afterInstall () {
-    return this.addAddonsToProject({
-      packages: [
-        {name: 'ember-cli-sass'}
-      ],
-      blueprintOptions: {
-        save: true
-      }
-    });
+    return this._locals (this.options)
+      .then (({fileMap: { __root__ }}) => this.insertIntoFile (`${__root__}/styles/app.scss`, '@import "_stylist";\n'))
   }
-};
+});
