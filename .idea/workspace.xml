@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b5c569e7-3aa3-4543-ae31-ae2cd98adabd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/addon/initializers/stylist.js" beforeDir="false" afterPath="$PROJECT_DIR$/addon/initializers/styled.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/initializers/stylist.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/initializers/styled.js" afterDir="false" />
-    </list>
+    <list default="true" id="b5c569e7-3aa3-4543-ae31-ae2cd98adabd" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.bower_components.ember-try/" />
     <ignored path="$PROJECT_DIR$/.node_modules.ember-try/" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -23,6 +20,7 @@
     <session id="1111855841">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -71,29 +69,7 @@
     <favorites_list name="ember-cli-stylist" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/addon/initializers/styled.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="26">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
-              <folding>
-                <element signature="e#0#52#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/initializers/styled.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="73" selection-start-column="73" selection-end-column="73" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -167,24 +143,7 @@
             <path>
               <item name="ember-cli-stylist" type="b2602c69:ProjectViewProjectNode" />
               <item name="ember-cli-stylist" type="462c0819:PsiDirectoryNode" />
-              <item name="addon" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ember-cli-stylist" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ember-cli-stylist" type="462c0819:PsiDirectoryNode" />
-              <item name="addon" type="462c0819:PsiDirectoryNode" />
-              <item name="initializers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ember-cli-stylist" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ember-cli-stylist" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ember-cli-stylist" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ember-cli-stylist" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="initializers" type="462c0819:PsiDirectoryNode" />
+              <item name="blueprints" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -286,16 +245,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1539874579425</updated>
-      <workItem from="1539874580959" duration="9667000" />
+      <workItem from="1539874580959" duration="9764000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9667000" />
+    <option name="totallyTimeSpent" value="9764000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="782" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="npm" side_tool="true" />
       <window_info id="Favorites" order="0" sideWeight="0.5014006" side_tool="true" weight="0.22057787" />
@@ -530,6 +488,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/initializers/styled.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/addon/initializers/styled.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="26">
@@ -537,13 +502,6 @@
           <folding>
             <element signature="e#0#52#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/initializers/styled.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="73" selection-start-column="73" selection-end-column="73" />
         </state>
       </provider>
     </entry>
