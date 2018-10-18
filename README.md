@@ -58,10 +58,11 @@ For example, here is the command to generate the style for route `a/b/c`:
 
     ember g style a/b/c
     
-This will generate the file `app/styles/routes/a/b/_c.scss`, which will contain
-the following contents:
+This will generate the a style file that contains the following contents:
 
 ```scss
+// app/styles/routes/a/b/_c.scss
+
 .route__a-b-c {
 
 }
@@ -80,10 +81,11 @@ For example, here is the command to generate the style for component `foo-bar`:
 
     ember g route foo-bar
     
-This will generate the file `app/styles/components/_foo-bar.scss`, which will contain
-the following contents:
+This will generate a style that contains the following contents:
 
 ```scss
+// app/styles/components/_foo-bar.scss
+
 .foo-bar {
 
 }
