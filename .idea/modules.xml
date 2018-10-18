@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/ember-cli-stylist.iml" filepath="$PROJECT_DIR$/.idea/ember-cli-stylist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ember-cli-styled.iml" filepath="$PROJECT_DIR$/.idea/ember-cli-styled.iml" />
     </modules>
   </component>
 </project>
