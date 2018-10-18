@@ -1,12 +1,17 @@
 {
   "name": "ember-cli-stylist",
   "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "description": "ember-cli addon for modularizing style implementation.",
   "keywords": [
-    "ember-addon"
+    "ember-addon",
+    "styles",
+    "sass",
+    "modular",
+    "routes",
+    "components"
   ],
-  "repository": "",
-  "license": "MIT",
+  "repository": "github:onehilltech/ember-cli-stylist",
+  "license": "Apache-2.0",
   "author": "",
   "directories": {
     "doc": "doc",
