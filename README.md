@@ -79,7 +79,7 @@ Use the `component-style` blueprint to generate the style for a component:
     
 For example, here is the command to generate the style for component `foo-bar`:
 
-    ember g route foo-bar
+    ember g component-style foo-bar
     
 This will generate a style that contains the following contents:
 
