@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b5c569e7-3aa3-4543-ae31-ae2cd98adabd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.bower_components.ember-try/" />
     <ignored path="$PROJECT_DIR$/.node_modules.ember-try/" />
@@ -70,9 +69,10 @@
     <session id="-592216351">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
-          <entry key="project.open.time.0" value="4" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.0" value="5" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -231,10 +231,10 @@
       <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="782" />
+    <option name="height" value="799" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -358,16 +358,17 @@
       <workItem from="1539896595265" duration="3717000" />
       <workItem from="1539900823286" duration="516000" />
       <workItem from="1539923223987" duration="7000" />
-      <workItem from="1540430062581" duration="426000" />
+      <workItem from="1540430062581" duration="1325000" />
+      <workItem from="1541825639555" duration="2000" />
+      <workItem from="1542560693722" duration="360000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14430000" />
+    <option name="totallyTimeSpent" value="15691000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="782" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1440" height="799" extended-state="6" />
     <layout>
       <window_info id="Favorites" order="0" sideWeight="0.5014006" side_tool="true" weight="0.22057787" />
       <window_info content_ui="combo" id="Project" order="1" sideWeight="0.49859944" visible="true" weight="0.22057787" />
@@ -375,7 +376,7 @@
       <window_info id="npm" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.5109232" side_tool="true" weight="0.3288889" />
       <window_info anchor="bottom" id="Version Control" order="1" weight="0.3288889" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="2" sideWeight="0.48907682" visible="true" weight="0.33133432" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="2" sideWeight="0.48907682" visible="true" weight="0.33040935" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" weight="0.3288889" />
       <window_info anchor="bottom" id="Run" order="5" sideWeight="0.4855532" weight="0.4647676" />
@@ -583,15 +584,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blueprints/ember-cli-styled/files/__root__/styles/app.scss">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/blueprints/ember-cli-styled/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="182">
           <caret line="14" selection-end-line="14" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blueprints/ember-cli-styled/files/__root__/styles/app.scss">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
