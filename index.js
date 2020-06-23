@@ -5,6 +5,7 @@ const INCOMPATIBLE_PLUGINS = [
 ];
 
 module.exports = {
+<<<<<<< HEAD
   name: 'ember-cli-styled',
 
   setupPreprocessorRegistry (type, registry) {
@@ -16,4 +17,7 @@ module.exports = {
       registry.remove ('css', 'ember-cli-sass');
     }
   }
+=======
+  name: require('./package').name
+>>>>>>> b2ebb31... v3.3.0...v3.18.0
 };

@@ -3,6 +3,15 @@ ember-cli-styled
 
 ember-cli add-on for modularizing style implementation.
 
+
+Compatibility
+------------------------------------------------------------------------------
+
+* Ember.js v3.12 or above
+* Ember CLI v2.13 or above
+* Node.js v10 or above
+
+
 Installation
 ------------------------------------------------------------------------------
 
@@ -40,6 +49,7 @@ a `body` element with the following class names:
 ```html
 <body class="route__a route__a-b route__a-b-c">
 
+<<<<<<< HEAD
 </body>
 ```
 
@@ -67,6 +77,10 @@ This will generate the a style file that contains the following contents:
 
 }
 ```    
+=======
+See the [Contributing](CONTRIBUTING.md) guide for details.
+
+>>>>>>> b2ebb31... v3.3.0...v3.18.0
 
 Now, class names that appear within the scope `.route__a-b-c` will only be applied
 when the user enters route `a/b/c`.
