@@ -19,104 +19,6 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="1111855841">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="gitkeep" value="2" />
-          <entry key="js" value="21" />
-          <entry key="json" value="1" />
-          <entry key="md" value="1" />
-          <entry key="scss" value="28" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JSON" value="1" />
-          <entry key="JavaScript" value="21" />
-          <entry key="Markdown" value="1" />
-          <entry key="PLAIN_TEXT" value="2" />
-          <entry key="SCSS" value="28" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.js.language.service.starts">
-        <counts>
-          <entry key="ESLintLanguageService" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="js" value="1149" />
-          <entry key="json" value="276" />
-          <entry key="scss" value="27" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JSON" value="276" />
-          <entry key="JavaScript" value="1149" />
-          <entry key="SCSS" value="27" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.vcs.git.usages" />
-    </session>
-    <session id="-592216351">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="9" />
-          <entry key="project.open.time.0" value="8" />
-          <entry key="project.open.time.1" value="2" />
-          <entry key="project.opened" value="10" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="js" value="4" />
-          <entry key="json" value="2" />
-          <entry key="md" value="2" />
-          <entry key="scss" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JSON" value="2" />
-          <entry key="JavaScript" value="4" />
-          <entry key="Markdown" value="2" />
-          <entry key="SCSS" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="js" value="92" />
-          <entry key="json" value="2" />
-          <entry key="md" value="3413" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="HTML" value="1" />
-          <entry key="JSON" value="2" />
-          <entry key="JavaScript" value="92" />
-          <entry key="Markdown" value="3408" />
-          <entry key="SCSS" value="2" />
-          <entry key="Sass" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.vcs.git.usages" />
-      <usages-collector id="statistics.js.language.service.starts">
-        <counts>
-          <entry key="ESLintLanguageService" value="7" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FavoritesManager">
     <favorites_list name="ember-cli-stylist" />
   </component>
@@ -380,13 +282,13 @@
       <option name="SSL_CERT" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Run componet-style" type="NodeJSConfigurationType" factoryName="Node.js" application-parameters="g component-style stylist-foo --dummy" path-to-js-file="$USER_HOME$/.nvm/versions/node/v8.11.1/bin/ember" working-dir="$PROJECT_DIR$">
+    <configuration name="Run componet-style" type="NodeJSConfigurationType" application-parameters="g component-style stylist-foo --dummy" path-to-js-file="$USER_HOME$/.nvm/versions/node/v8.11.1/bin/ember" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="Run ember-cli-stylist" type="NodeJSConfigurationType" factoryName="Node.js" application-parameters="g ember-cli-stylist --dummy" path-to-js-file="$USER_HOME$/.nvm/versions/node/v8.11.1/bin/ember" working-dir="$PROJECT_DIR$">
+    <configuration name="Run ember-cli-stylist" type="NodeJSConfigurationType" application-parameters="g ember-cli-stylist --dummy" path-to-js-file="$USER_HOME$/.nvm/versions/node/v8.11.1/bin/ember" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="Run style" type="NodeJSConfigurationType" factoryName="Node.js" application-parameters="g style index --dummy" path-to-js-file="$USER_HOME$/.nvm/versions/node/v8.11.1/bin/ember" working-dir="$PROJECT_DIR$">
+    <configuration name="Run style" type="NodeJSConfigurationType" application-parameters="g style index --dummy" path-to-js-file="$USER_HOME$/.nvm/versions/node/v8.11.1/bin/ember" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <list>
