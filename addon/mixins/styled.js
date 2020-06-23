@@ -6,7 +6,7 @@ import { dasherize } from '@ember/string';
 
 export default Mixin.create ({
   classNameForRoute: computed ('routeName', function () {
-    const routeName = this.get ('routeName');
+    const routeName = this.routeName;
     const className = dasherize (routeName).replace (/[.]/g, '-');
 
     return `route__${className}`;
@@ -16,7 +16,7 @@ export default Mixin.create ({
     this._super (...arguments);
 
     // Add the class name for this route so we can add styles.
-    let classNameForRoute = this.get ('classNameForRoute');
+    let classNameForRoute = this.classNameForRoute;
     document.body.classList.add (classNameForRoute);
   },
 
@@ -24,7 +24,7 @@ export default Mixin.create ({
     this._super (...arguments);
 
     // Remove the class name for this route so we can remove styles.
-    let classNameForRoute = this.get ('classNameForRoute');
+    let classNameForRoute = this.classNameForRoute;
     document.body.classList.remove (classNameForRoute);
   }
 });
