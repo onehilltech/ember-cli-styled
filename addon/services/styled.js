@@ -55,8 +55,6 @@ export default class StyledService extends Service {
    * @private
    */
   _routeDidChange (transition) {
-    console.log (transition);
-
     const { from, to } = transition;
     let fromClassNames = computeClassNames (from);
     let toClassNames = computeClassNames (to);

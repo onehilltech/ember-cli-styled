@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b5c569e7-3aa3-4543-ae31-ae2cd98adabd" name="Default Changelist" comment="" />
+    <list default="true" id="b5c569e7-3aa3-4543-ae31-ae2cd98adabd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/addon/services/styled.js" beforeDir="false" afterPath="$PROJECT_DIR$/addon/services/styled.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -136,7 +139,8 @@
       <workItem from="1542570857439" duration="875000" />
       <workItem from="1542913246877" duration="408000" />
       <workItem from="1542919063289" duration="642000" />
-      <workItem from="1592874053287" duration="7804000" />
+      <workItem from="1592874053287" duration="8426000" />
+      <workItem from="1593008961736" duration="6000" />
     </task>
     <servers />
   </component>
@@ -148,22 +152,22 @@
       <screen x="0" y="23" width="1680" height="961" />
     </state>
     <state x="515" y="230" key="#ESLint/0.23.1680.961@0.23.1680.961" timestamp="1592874218752" />
-    <state width="1659" height="367" key="GridCell.Tab.0.bottom" timestamp="1592880609092">
+    <state width="1659" height="367" key="GridCell.Tab.0.bottom" timestamp="1592883628125">
       <screen x="0" y="23" width="1680" height="961" />
     </state>
-    <state width="1659" height="367" key="GridCell.Tab.0.bottom/0.23.1680.961@0.23.1680.961" timestamp="1592880609092" />
-    <state width="1659" height="367" key="GridCell.Tab.0.center" timestamp="1592880609091">
+    <state width="1659" height="367" key="GridCell.Tab.0.bottom/0.23.1680.961@0.23.1680.961" timestamp="1592883628125" />
+    <state width="1659" height="367" key="GridCell.Tab.0.center" timestamp="1592883628125">
       <screen x="0" y="23" width="1680" height="961" />
     </state>
-    <state width="1659" height="367" key="GridCell.Tab.0.center/0.23.1680.961@0.23.1680.961" timestamp="1592880609091" />
-    <state width="1659" height="367" key="GridCell.Tab.0.left" timestamp="1592880609090">
+    <state width="1659" height="367" key="GridCell.Tab.0.center/0.23.1680.961@0.23.1680.961" timestamp="1592883628125" />
+    <state width="1659" height="367" key="GridCell.Tab.0.left" timestamp="1592883628124">
       <screen x="0" y="23" width="1680" height="961" />
     </state>
-    <state width="1659" height="367" key="GridCell.Tab.0.left/0.23.1680.961@0.23.1680.961" timestamp="1592880609090" />
-    <state width="1659" height="367" key="GridCell.Tab.0.right" timestamp="1592880609091">
+    <state width="1659" height="367" key="GridCell.Tab.0.left/0.23.1680.961@0.23.1680.961" timestamp="1592883628124" />
+    <state width="1659" height="367" key="GridCell.Tab.0.right" timestamp="1592883628125">
       <screen x="0" y="23" width="1680" height="961" />
     </state>
-    <state width="1659" height="367" key="GridCell.Tab.0.right/0.23.1680.961@0.23.1680.961" timestamp="1592880609091" />
+    <state width="1659" height="367" key="GridCell.Tab.0.right/0.23.1680.961@0.23.1680.961" timestamp="1592883628125" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -176,7 +180,6 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/addon/services/styled.js</url>
           <line>2</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="20" />
         </line-breakpoint>
       </breakpoints>
