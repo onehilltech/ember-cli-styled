@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b5c569e7-3aa3-4543-ae31-ae2cd98adabd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/addon/services/styled.js" beforeDir="false" afterPath="$PROJECT_DIR$/addon/services/styled.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +54,7 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="settings.editor.selected.configurable" value="copyright.profiles" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -64,7 +64,25 @@
       <recent name="$PROJECT_DIR$/blueprints/ember-cli-stylist" />
     </key>
   </component>
-  <component name="RunManager" selected="Ember Serve.Run application">
+  <component name="RunManager" selected="Node.js.Run ember-cli-stylist">
+    <configuration default="true" type="EMBER_SERVE_CONFIGURATION" factoryName="Ember serve configuration factory">
+      <option name="PORT" value="" />
+      <option name="HOST" value="" />
+      <option name="ENVIRONMENT" value="development" />
+      <option name="OUTPUT_PATH" value="" />
+      <option name="WATCHER" value="" />
+      <option name="PROXY" value="" />
+      <option name="PROXY_SECURE" value="true" />
+      <option name="PROXY_TRANSPARENT" value="true" />
+      <option name="LIVE_RELOAD" value="true" />
+      <option name="LIVE_RELOAD_HOST" value="" />
+      <option name="LIVE_RELOAD_BASE_URL" value="" />
+      <option name="LIVE_RELOAD_PORT" value="" />
+      <option name="SSL" value="false" />
+      <option name="SSL_KEY" value="" />
+      <option name="SSL_CERT" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Run application" type="EMBER_SERVE_CONFIGURATION" factoryName="Ember serve configuration factory">
       <option name="PORT" value="" />
       <option name="HOST" value="" />
@@ -84,24 +102,6 @@
       <module name="NAME" value="ember-cli-styled" />
       <method v="2" />
     </configuration>
-    <configuration default="true" type="EMBER_SERVE_CONFIGURATION" factoryName="Ember serve configuration factory">
-      <option name="PORT" value="" />
-      <option name="HOST" value="" />
-      <option name="ENVIRONMENT" value="development" />
-      <option name="OUTPUT_PATH" value="" />
-      <option name="WATCHER" value="" />
-      <option name="PROXY" value="" />
-      <option name="PROXY_SECURE" value="true" />
-      <option name="PROXY_TRANSPARENT" value="true" />
-      <option name="LIVE_RELOAD" value="true" />
-      <option name="LIVE_RELOAD_HOST" value="" />
-      <option name="LIVE_RELOAD_BASE_URL" value="" />
-      <option name="LIVE_RELOAD_PORT" value="" />
-      <option name="SSL" value="false" />
-      <option name="SSL_KEY" value="" />
-      <option name="SSL_CERT" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="Run componet-style" type="NodeJSConfigurationType" application-parameters="g component-style stylist-foo --dummy" path-to-js-file="$USER_HOME$/.nvm/versions/node/v8.11.1/bin/ember" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
@@ -112,12 +112,12 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Ember Serve.Run application" />
       <item itemvalue="Node.js.Run ember-cli-stylist" />
       <item itemvalue="Node.js.Run style" />
       <item itemvalue="Node.js.Run componet-style" />
     </list>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="project-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -140,12 +140,14 @@
       <workItem from="1542913246877" duration="408000" />
       <workItem from="1542919063289" duration="642000" />
       <workItem from="1592874053287" duration="8426000" />
-      <workItem from="1593008961736" duration="6000" />
+      <workItem from="1593008961736" duration="71000" />
+      <workItem from="1593009358563" duration="1178000" />
+      <workItem from="1623733416788" duration="3000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
     <state x="515" y="230" key="#ESLint" timestamp="1592874218752">
