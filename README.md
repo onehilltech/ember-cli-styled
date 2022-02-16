@@ -1,7 +1,7 @@
 ember-cli-styled
 ==============================================================================
 
-ember-cli add-on for modularizing style implementation.
+ember-cli add-on for modularizing your styles
 
 
 Compatibility
@@ -24,6 +24,7 @@ Features
 
 * Separate styles by route and/or component
 * Automatically apply styles based on the current route
+* Add polymorphic behavior to your styles
 
 
 Usage
