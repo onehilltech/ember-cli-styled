@@ -5,10 +5,55 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b5c569e7-3aa3-4543-ae31-ae2cd98adabd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.github/workflows/ci.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.prettierignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.prettierrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.stylelintignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.stylelintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/dummy/config/ember-try.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/helpers/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ember-cli" beforeDir="false" afterPath="$PROJECT_DIR$/.ember-cli" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.eslintignore" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.eslintrc.js" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintrc.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.npmignore" beforeDir="false" afterPath="$PROJECT_DIR$/.npmignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.template-lintrc.js" beforeDir="false" afterPath="$PROJECT_DIR$/.template-lintrc.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CONTRIBUTING.md" beforeDir="false" afterPath="$PROJECT_DIR$/CONTRIBUTING.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/addon/initializers/styled.js" beforeDir="false" afterPath="$PROJECT_DIR$/addon/initializers/styled.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/addon/services/styled.js" beforeDir="false" afterPath="$PROJECT_DIR$/addon/services/styled.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blueprints/component-style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/blueprints/component-style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blueprints/ember-cli-styled/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/blueprints/ember-cli-styled/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blueprints/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/blueprints/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/ember-try.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/environment.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ember-cli-build.js" beforeDir="false" afterPath="$PROJECT_DIR$/ember-cli-build.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testem.js" beforeDir="false" afterPath="$PROJECT_DIR$/testem.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/dummy/app/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/tests/dummy/app/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/dummy/app/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tests/dummy/app/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/dummy/app/router.js" beforeDir="false" afterPath="$PROJECT_DIR$/tests/dummy/app/router.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/dummy/app/routes/a.js" beforeDir="false" afterPath="$PROJECT_DIR$/tests/dummy/app/routes/a.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/dummy/app/routes/a/b.js" beforeDir="false" afterPath="$PROJECT_DIR$/tests/dummy/app/routes/a/b.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/dummy/app/routes/a/b/c.js" beforeDir="false" afterPath="$PROJECT_DIR$/tests/dummy/app/routes/a/b/c.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/dummy/app/routes/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/tests/dummy/app/routes/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/dummy/app/routes/x.js" beforeDir="false" afterPath="$PROJECT_DIR$/tests/dummy/app/routes/x.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/dummy/app/routes/x/y.js" beforeDir="false" afterPath="$PROJECT_DIR$/tests/dummy/app/routes/x/y.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/dummy/app/routes/x/y/z.js" beforeDir="false" afterPath="$PROJECT_DIR$/tests/dummy/app/routes/x/y/z.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/dummy/app/styles/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/tests/dummy/app/styles/app.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/dummy/config/ember-cli-update.json" beforeDir="false" afterPath="$PROJECT_DIR$/tests/dummy/config/ember-cli-update.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/dummy/config/environment.js" beforeDir="false" afterPath="$PROJECT_DIR$/tests/dummy/config/environment.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/dummy/config/targets.js" beforeDir="false" afterPath="$PROJECT_DIR$/tests/dummy/config/targets.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/helpers/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/tests/dummy/app/routes/application.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tests/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test-helper.js" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test-helper.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/unit/instance-initializers/styled-test.js" beforeDir="false" afterPath="$PROJECT_DIR$/tests/unit/instance-initializers/styled-test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/unit/services/styled-test.js" beforeDir="false" afterPath="$PROJECT_DIR$/tests/unit/services/styled-test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/.gitkeep" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,7 +196,7 @@
       <workItem from="1593008961736" duration="71000" />
       <workItem from="1593009358563" duration="1178000" />
       <workItem from="1623733416788" duration="3000" />
-      <workItem from="1712460010168" duration="373000" />
+      <workItem from="1712460010168" duration="799000" />
     </task>
     <servers />
   </component>
@@ -185,7 +230,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/blueprints/component-style/index.js</url>
-          <line>42</line>
+          <line>41</line>
           <option name="timeStamp" value="19" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">

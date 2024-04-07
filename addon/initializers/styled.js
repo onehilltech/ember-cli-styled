@@ -1,7 +1,9 @@
-export function initialize (app) {
-  app.inject ('route:application', 'styled', 'service:styled');
+export function initialize(app) {
+  if (!!app.inject) {
+    app.inject('route:application', 'styled', 'service:styled');
+  }
 }
 
 export default {
-  initialize
+  initialize,
 };

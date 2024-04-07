@@ -1,4 +1,3 @@
 import Route from '@ember/routing/route';
 
-export default class XYRoute extends Route {
-}
+export default class XYRoute extends Route {}
