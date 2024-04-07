@@ -30,6 +30,27 @@ Features
 Usage
 -----------------------------------------------
 
+### Initialize the service
+
+Inject the `styled` service into your application route, and call the 
+`initialize()` method.
+
+```javascript
+import Route from '@ember/routing/route';
+import { inject as service } from '@ember/service';
+
+export default class ApplicationRoute extends Route {
+  @service
+  styled;
+
+  constructor () {
+    super (...arguments);
+
+    this.styled.initialize ();
+  }
+}
+```
+
 ### Generate Styles for a Route
 
 Use the `style` blueprint to generate the style for a route:
