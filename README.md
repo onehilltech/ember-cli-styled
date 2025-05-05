@@ -24,7 +24,6 @@ Features
 * Add polymorphic behavior to your styles
 
 
-<<<<<<< HEAD
 Usage
 -----------------------------------------------
 
@@ -98,9 +97,6 @@ that have `foo-bar` added to its `classNames` property.
 
 But, How Does It Work?! (TLDR)
 ------------------------------------------------------------------------------
-=======
-## Usage
->>>>>>> 6dfe9e7 (v3.18.0...v4.12.2)
 
 To understand how `ember-cli-styled` works, you must first understand how routes
 work in Ember. Whenever you enter or exit a route, the route fires the `activate`
@@ -115,14 +111,11 @@ In the example route `a/b/c`, Ember will first fire the `activate` on route
 `a`, then fire the `activate` event on route `a/b`, and lastly fire the `activate`
 event on route `a/b/c`. 
 
-<<<<<<< HEAD
 `ember-cli-styled` uses this behavior to apply and remove style class names that correspond 
 to a given route as the user routes around your application. All style class names are 
 applied the the `body` HTML element. In the example above, `ember-cli-styled` generate
 a `body` element with the following class names:
-=======
-## Contributing
->>>>>>> 6dfe9e7 (v3.18.0...v4.12.2)
+
 
 ```html
 <body class="route__a route__a-b route__a-b-c">
@@ -130,13 +123,10 @@ a `body` element with the following class names:
 </body>
 ```
 
-<<<<<<< HEAD
 This allows you to separate styles based on route definitions instead of adding them
 all to `app.css` or `app.scss`. For example, if you have styles that are applicable 
 to all child routes of `a/b`, like `a/b/c` or `a/b/d`, then you can define it in 
 `.route__a-b`.
-=======
-## License
->>>>>>> 6dfe9e7 (v3.18.0...v4.12.2)
+
 
 Happy Coding!
